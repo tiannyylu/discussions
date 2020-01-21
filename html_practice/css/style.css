@@ -8,6 +8,6 @@ h2{
   text-shadow: 1px 1px 1px;
 }
 
-ol li{
+ul{
   list-style-image: url("../imgs/tinyM.png");
 }
